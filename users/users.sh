@@ -4,57 +4,52 @@ USE_MSG="
 Usage: $(basename "$0") OPTIONS 
 
 OPTIONS:
--d, --delimiter C Use character C as delimiter
--r, --reverse     Reverse listing 
--s, --sort        Sort listing alphabetically
--u, --uppercase   Show uppercase listing
+-d C   Use character C as delimiter
+-r     Reverse listing 
+-s     Sort listing alphabetically
+-u     Show uppercase listing
 
--h, --help        Show help and exit
--V, --version     Show version and exit
+-h     Show help and exit
+-V     Show version and exit
 "
 sort=0
 reverse=0
 uppercase=0
 delim='\t'
 
-while test -n "$1"
+while getopts ":hVd:rsu" option 
 do
-  case "$1" in
-    -h | --help)
+  case "$option" in
+    s) sort=1 ;;
+
+    r) reverse=1 ;;
+
+    u) uppercase=1 ;;
+
+    d) delim="$OPTARG" ;;
+
+    h)
       echo "$USE_MSG"
       exit 0
     ;;
 
-    -V | --version)
+    V)
       echo -n $(basename "$0") 
-      grep '^# Versão ' "$0" | tail -1 | cut -d : -f 1 | tr -d \#
+      grep '^# Version' "$0" | tail -1 | cut -d : -f 1 | tr -d \#
       exit 0
     ;;
 
-    -s | --sort) sort=1 ;;
-
-    -r | --reverse) reverse=1 ;;
-
-    -u | --upercase) uppercase=1 ;;
-
-    -d | --delimiter) 
-      shift
-      delim="$1" 
-
-      if test -z "$delim"
-      then
-        echo "Missing argument for -d"
-        exit 1
-      fi 
+    \?)
+      echo Invalid option: $OPTARG
+      exit 1
     ;;
 
-    *)
-      echo Invalid option: $1
+    :)
+      echo Missing argument for: $OPTARG
       exit 1
     ;;
   esac
 
-  shift
 done
 
 list=$(cut -d : -f 1,5 /etc/passwd)
