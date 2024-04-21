@@ -1,46 +1,27 @@
 #!/bin/bash
-# usuarios.sh
-#
-# Mostra login e nomes de usuários do sistema
-# Lê dados do arquivo /etc/passwd
-#
-# Versão 1: Mostra usuários e nomes separados por TAB
-# Versão 2: Adicionado suporte a opção -h
-# Versão 3: Adicionado suporte a opção -V e opções inválidas
-# Versão 4: Arrumado bug quando não tem opções, basename no
-#           nome do programa, -V extraindo direto dos cabeçalhos,
-#           adicionadas opções --help e --version
-# Versão 5: Adicionadas opções -s e --sort
-# Versão 6: Adicionadas opções -r, --reverse, -u, --uppercase,
-#           leitura de múltiplas opções
-# Versão 7: Melhorias no código para que fique mais legível,
-#           adicionadas opções -d e --delimiter
-#
-# Kayê, abril de 2024
-  #
 
-MENSAGEM_USO="
-Uso: $(basename "$0") OPÇÔES
+USE_MSG="
+Usage: $(basename "$0") OPTIONS 
 
-OPÇÔES:
--d, --delimiter C Usa o caractere C como delimitador
--r, --reverse     Inverte a listagem
--s, --sort        Orderna a listagem alfabeticamente
--u, --uppercase   Mostra a listagem em MAIÚSCULAS
+OPTIONS:
+-d, --delimiter C Use character C as delimiter
+-r, --reverse     Reverse listing 
+-s, --sort        Sort listing alphabetically
+-u, --uppercase   Show uppercase listing
 
--h, --help        Mostra esta tela de ajuda e sai
--V, --version     Mostra a versão do programa e sai
+-h, --help        Show help and exit
+-V, --version     Show version and exit
 "
-ordenar=0
-inverter=0
-maiuscula=0
+sort=0
+reverse=0
+uppercase=0
 delim='\t'
 
 while test -n "$1"
 do
   case "$1" in
     -h | --help)
-      echo "$MENSAGEM_USO"
+      echo "$USE_MSG"
       exit 0
     ;;
 
@@ -50,11 +31,11 @@ do
       exit 0
     ;;
 
-    -s | --sort) ordenar=1 ;;
+    -s | --sort) sort=1 ;;
 
-    -r | --reverse) inverter=1 ;;
+    -r | --reverse) reverse=1 ;;
 
-    -u | --upercase) maiuscula=1 ;;
+    -u | --upercase) uppercase=1 ;;
 
     -d | --delimiter) 
       shift
@@ -62,13 +43,13 @@ do
 
       if test -z "$delim"
       then
-        echo "Faltou o argumento para a -d"
+        echo "Missing argument for -d"
         exit 1
       fi 
     ;;
 
     *)
-      echo Opção inválida: $1
+      echo Invalid option: $1
       exit 1
     ;;
   esac
@@ -76,13 +57,13 @@ do
   shift
 done
 
-lista=$(cut -d : -f 1,5 /etc/passwd)
+list=$(cut -d : -f 1,5 /etc/passwd)
 
-test "$ordenar" = 1 && lista=$(echo "$lista" | sort)
+test "$order" = 1 && list=$(echo "$list" | sort)
 
-test "$inverter" = 1 && lista=$(echo "$lista" | tac)
+test "$reverse" = 1 && list=$(echo "$list" | tac)
 
-test "$maiuscula" = 1 && lista=$(echo "$lista" | tr a-z A-Z)
+test "$uppercase" = 1 && list=$(echo "$list" | tr a-z A-Z)
 
-echo "$lista" | tr : "$delim"
+echo "$list" | tr : "$delim"
 
