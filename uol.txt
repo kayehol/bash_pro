@@ -1,0 +1,1209 @@
+   REFRESH(18000 sec): https://www.uol.com.br/
+   [p?c1=2&c2=6036356&cv=4.4.0&cj=1]
+
+   RTL hit counter
+     * SiteHome UOL
+     * SiteProdutos
+       OUTROS CANAIS UOL
+       SiteProdutos
+          + SiteConteúdo Exclusivo
+          + SiteUOL Mail
+          + SiteUOL Play
+          + SiteUFC
+          + SiteChampions League
+          + SiteNBA
+          + SiteBate-papo UOL
+          + SiteUOL Leia+
+          + SiteUOL Segurança Digital
+          + SiteUOL Família Protegida
+          + SiteUOL Assistência Técnica
+          + SiteUOL Resolve
+          + SiteUOL WI-FI
+          + SiteUOL Sexo
+          + SiteClube UOL
+          + SiteUOL ads
+          + SiteUOL Host
+          + SiteUOL Meu Negócio
+          + SiteUOL Afiliados
+       Assine UOL Tenha acesso ilimitado ao conteúdo exclusivo e a
+       produtos UOL
+       Compre pelo WhatsApp ou ligue para nós
+       4003 6118 capitais 0800 703 3000 demais localidades
+     * SiteNotícias
+       OUTROS CANAIS UOL
+       SiteNotícias
+          + SiteColunas
+          + SiteCotidiano
+          + SiteEducação
+          + SiteGoverno Lula
+          + SiteInternacional
+          + SitePrevisão do tempo
+          + SiteSaúde
+          + SiteUOL Confere
+          + SiteNewsletters
+          + SiteÚltimas notícias
+       SiteLoterias
+          + SiteMega Sena
+          + SiteQuina
+          + SiteLotofácil
+          + SiteLotomania
+          + SiteOutras loterias
+       SitePodcasts
+          + SitePosse de Bola
+          + SiteSexoterapia
+          + SiteSplash Vê TV
+          + SiteUOL Entrevista
+          + SiteUOL Prime
+          + SiteUOL Líderes
+          + SiteMídia e Marketing
+     * SitePolítica
+     * SiteCarros
+       OUTROS CANAIS UOL
+       SiteCarros
+          + SiteTabela Fipe
+          + SiteLançamentos e Mercado
+          + SiteAvaliação de Carros
+          + SiteComparativo
+          + SiteLegislação, Multas e Trânsito
+          + SiteManutenção e Segurança
+          + SiteCarros curiosos
+          + SiteCarro dos famosos
+          + SiteVídeos
+          + SiteWeb Stories
+          + SiteÚltimas notícias
+          + SiteNewsletters
+     * SiteEconomia
+       OUTROS CANAIS UOL
+       SiteEconomia
+          + SiteCotações
+          + SiteInvestimentos
+          + SiteEmpresas e Negócios
+          + SiteDinheiro e Renda
+          + SiteConcursos
+          + SiteGuia de Compras
+          + SiteGuia de Economia
+          + SiteImposto de Renda
+          + SiteLíderes
+          + SiteMídia e Marketing
+          + SiteColunas
+          + SiteNewsletters
+          + SiteVídeos
+          + SiteÚltimas notícias
+       SiteCotações
+          + SiteDólar
+          + SiteEuro
+          + SiteOutras moedas
+          + SiteBolsa de Valores
+          + SiteBitcoin e Criptomoedas
+       SiteImposto de Renda
+          + SiteDownload do programa
+          + SiteTira-dúvidas
+          + SiteÚltimas notícias
+       SiteGoverno e Congresso
+          + SiteBolsa Família
+          + SiteINSS
+          + SitePIS - Pagamentos e Calendário
+          + SitePreço dos combustíveis
+          + SiteInflação no Brasil e Mundo
+          + SiteBanco Central
+          + SiteSelic e Juros
+     * SiteFolha
+       OUTROS CANAIS UOL
+       SiteFolha
+          + SitePolítica
+          + SiteEconomia
+          + SiteMundo
+          + SiteCotidiano
+          + SiteEquilíbrio
+          + SiteCultura
+          + SiteF5
+          + SiteEsporte
+          + SitePodcasts
+          + SiteColunas e blogs
+     * SiteEsporte
+       OUTROS CANAIS UOL
+       SiteEsporte
+          + SiteFutebol
+          + SiteJogos de Hoje
+          + SiteBrasileirão
+          + SiteCopa do Brasil
+          + SiteEliminatórias Sul-Americanas
+          + SiteOlimpíadas
+          + SiteLibertadores
+          + SiteLiga dos Campeões
+          + SiteMais campeonatos
+          + SiteMercado da Bola
+       SiteMais Esporte
+          + SiteFórmula 1
+          + SiteMMA
+          + SiteFutsal
+          + SiteNBB 2023/24
+          + SiteLBF - Basquete feminino
+          + SiteTênis
+          + SiteReportagens especiais
+          + SiteColunas
+          + SiteVídeos
+          + SiteNewsletters
+          + SiteÚltimas notícias
+       Times
+          + América-MG
+          + Athletico
+          + Atletico-MG
+          + Bahia
+          + Botafogo
+          + Corinthians
+          + Coritiba
+          + Cruzeiro
+          + Cuiabá
+          + Flamengo
+          + Fluminense
+          + Fortaleza
+          + Goiás
+          + Grêmio
+          + Internacional
+          + Palmeiras
+          + Red Bull Bragantino
+          + Santos
+          + São Paulo
+          + Vasco
+       SiteAssine e veja ao vivo
+          + SiteUFC
+          + SiteChampions League
+          + SiteNBA
+     * SiteSplash
+       OUTROS CANAIS UOL
+       SiteSplash
+          + SiteBBB
+          + SiteCelebs
+          + SiteFilmes
+          + SiteSéries
+          + SiteMúsica
+          + SiteAba Anônima
+          + SiteTelevisão
+          + SiteNovelas
+          + SiteReality shows
+          + SiteTeatro e Musicais
+          + SiteColunas
+          + SiteVídeos
+          + SiteWeb Stories
+          + SiteNewsletters
+          + SiteÚltimas
+       SiteNovelas
+          + SiteA Infância de Romeu e Julieta
+          + SiteCheias de Charme
+          + SiteFamília é Tudo
+          + SiteNo Rancho Fundo
+          + SiteRenascer
+       SiteAssine
+          + SiteUOL Play
+          + SiteUOL Leia+ Banca
+          + SiteUOL Leia+ Livros
+          + SiteLoja de jogos
+          + SiteSexo
+     * SiteUniversa
+       OUTROS CANAIS UOL
+       SiteUniversa
+          + SiteDireitos da Mulher
+          + SiteComportamento
+          + SiteBeleza
+          + SiteModa
+          + SiteHoróscopo
+          + SiteEventos
+          + SiteNewsletters
+          + SiteColunas
+          + SiteVídeos
+          + SiteÚltimas notícias
+       SiteHoróscopo
+          + SiteÁries
+          + SiteTouro
+          + SiteGêmeos
+          + SiteCâncer
+          + SiteLeão
+          + SiteVirgem
+          + SiteLibra
+          + SiteEscorpião
+          + SiteSagitário
+          + SiteCapricórnio
+          + SiteAquário
+          + SitePeixes
+       SiteDireitos da Mulher
+          + SiteViolência Contra Mulher
+       SiteComportamento
+          + SiteMaternidade
+          + SiteNa Minha Pele
+          + SiteRelacionamentos
+          + SiteSexo
+          + SiteUniversa Experimenta
+     * SiteVivaBem
+       OUTROS CANAIS UOL
+       SiteVivaBem
+          + SiteEquilíbrio e Saúde Mental
+          + SiteMovimento e Fitness
+          + SiteLongevidade
+          + SiteVida com Câncer
+          + SiteNewsletters
+          + SiteColunas
+          + SiteNotícias
+          + SiteVídeos
+          + SiteWeb Stories
+       SiteSaúde
+          + SiteBulas de Remédios
+          + SiteEmagrecimento
+          + SiteGravidez e Maternidade
+          + SiteGripes e Resfriados
+          + SiteGuia de Doenças
+          + SiteRemédios e Tratamentos
+       SiteAlimentação
+          + SiteCardápios
+          + SiteChás e seus benefícios
+          + SiteDietas
+     * SiteTilt
+       OUTROS CANAIS UOL
+       SiteTilt
+          + SiteFique por dentro
+          + SiteTec a seu favor
+          + SiteNovos hábitos
+          + SiteColunas
+          + SiteVídeos
+          + SiteNewsletters
+          + SiteÚltimas
+       SiteFique por dentro
+          + SiteLançamentos
+          + SiteWhatsApp
+          + SiteRedes Sociais
+          + SiteApps
+          + SiteIsso é Golpe!
+          + SiteCiência
+          + SiteAstronomia
+          + SiteNegócios
+       SiteTec a seu favor
+          + SiteTeste de Velocidade da Internet
+          + Site#ficadica
+          + SiteDicas matadoras
+          + SiteA tecnologia por trás
+          + SiteReview
+          + SiteComparativo
+          + SiteNo Brasil não tem
+     * SiteEcoa
+       OUTROS CANAIS UOL
+       SiteEcoa
+          + SiteSoluções
+          + SitePlural
+          + SitePodcasts
+          + SiteReportagens especiais
+          + SiteColunas
+          + SiteÚltimas
+       SiteSoluções
+          + SiteEmpresas que mudam
+          + SiteIniciativas que inspiram
+     * SiteCanal UOL
+     * SiteMOV
+       OUTROS CANAIS UOL
+       SiteMOV
+          + SiteCanal UOL
+          + SiteEntrevistas
+          + SiteMOV.doc
+          + SiteProgramas
+          + SiteBlog UOL Play
+       SiteParceiros
+          + SiteBand
+          + SiteCaras
+          + SiteHistory
+          + SiteRedeTV!
+          + SiteTV Cultura
+     * SiteNossa
+       OUTROS CANAIS UOL
+       SiteNossa
+          + SiteCasa
+          + SiteCozinha
+          + SiteViagem
+          + SiteModa
+          + SiteTemporadas
+          + SiteProgramas
+          + SiteReportagens Especiais
+          + SiteColunas
+          + SiteÚltimas
+       SiteCozinha
+          + SiteBusque sua Receita
+          + SiteLista de Receitas
+          + SiteAo ponto
+          + SiteInstachef
+          + SiteTim-tim
+          + SiteReceita de família
+          + SiteGastronobásico
+       SiteViagem
+          + Site12 horas
+          + SiteFora da rota
+          + SiteRetina
+          + SiteNa Estrada
+       SiteTemporadas
+          + SiteSolar
+          + SiteJapão
+          + SiteBrasileiro
+          + SiteFestejo
+          + SiteEntornos
+          + SiteFérias
+     * SiteTAB
+       OUTROS CANAIS UOL
+       SiteTAB
+          + SiteEspeciais
+          + SitePerfis
+          + SiteNas Ruas
+          + SiteTendência
+          + SiteÚltimas
+          + SiteAssista
+     * SiteUOL Prime
+     * SiteGuia de Compras
+       OUTROS CANAIS UOL
+       SiteGuia de Compras
+          + SiteBebês e crianças
+          + SiteBeleza
+          + SiteBem-estar
+          + SiteCasa e Cozinha
+          + SiteEletrônicos
+          + SiteLivros
+          + SiteRoupas e acessórios
+          + SiteSexo
+     * SiteEducação
+       OUTROS CANAIS UOL
+       SiteEducação
+          + SiteBanco de Redações
+          + SiteEnem
+          + SitePesquisa Escolar
+          + SitePlanos de aula
+          + SiteResumo de livros
+          + SiteVestibular
+          + SiteBrasil Escola
+          + SiteÚltimas notícias
+       SitePesquisa Escolar
+          + SiteAtualidades
+          + SiteBiografias
+          + SiteBiologia
+          + SiteFísica
+          + SiteGeografia
+          + SiteHistória
+          + SiteMatemática
+          + SitePortuguês
+          + SiteQuímica
+          + SiteOutros temas
+       SiteCursos online
+          + SiteCursos Livres - Upfy
+          + SitePós-graduação
+          + SiteProfissionalizantes
+          + SitePreparatório OAB
+     * SiteUOL Meu Negócio
+     * SiteUOL Play
+       OUTROS CANAIS UOL
+       SiteUOL Play
+          + SiteInício
+          + SiteAssistir
+          + SiteAo Vivo
+          + SiteCanal UOL
+          + SiteBlog
+          + SiteConheça
+          + SiteAssine
+       SiteAssistir
+          + SiteAção e aventura
+          + SiteComédia
+          + SiteCriança
+          + SiteDrama
+          + SiteDocumentários
+          + SiteEntrevistas
+          + SiteFamília e infantil
+          + SiteFicção científica
+          + SiteProgramas
+          + SiteReality show
+          + SiteRomance
+          + SiteSéries
+          + SiteShows
+          + SiteSuspense e Terror
+       SiteMOV Originais
+          + SiteMOV
+          + SiteNossa
+          + SiteSplash
+          + SiteTAB
+          + SiteTilt
+          + SiteUniversa
+          + SiteVivaBem
+     * SitePagBank
+     * SitePassei Direto
+
+UOL - Seu universo online
+
+   Pesquisar
+   ____________________
+     *
+     *
+     * ASSINE
+
+Placar
+
+   Logo UOL
+     *
+
+Copa do Brasil
+       América-RN
+       ARN
+       Corinthians
+       COR
+       versus
+     *
+
+Copa do Brasil
+       Flamengo
+       FLA
+       Amazonas
+       AMZ
+       versus
+
+   (BUTTON) Ver mais
+
+Governador do RS cita 'cenário de guerra' por chuvas e pede ajuda
+
+   Eduardo Leite (PSDB) quer atuação das Forças Armadas; Lula vai ao
+   estado amanhã
+     * 'Não teremos capacidade de fazer todos os resgates', afirma
+       governador do Rio Grande do Sul
+     * Chuvas deixam 10 mortos, 21 desaparecidos e mais de mil
+       desabrigados no RS
+     * Previsão indica que chuvas devem aumentar no RS e avançar para
+       Santa Catarina e Paraná
+
+   (BUTTON) (BUTTON)
+     * Paul-Henri Cahier/Getty Images
+
+E se Senna não tivesse morrido? Mostramos cenários que mudariam a história da
+F1
+     * Getty Images
+
+'Não quero ser chefe': os brasileiros que querem equilibrar trabalho e vida
+pessoal
+       Folha de São Paulo
+       Seção
+
+    1.
+    2.
+
+     * Lucas Emanuel/Lucas Emanuel/AGIF
+
+Juca Kfouri
+
+Empate em Fortaleza permite Vasco sonhar
+     * jacoblund/Getty Images/iStockphoto
+
+Sakamoto
+
+Benefício para Boulos é maior que multa para Lula
+     * avatar
+
+Josias de Souza
+
+Lula do 1º de Maio exibe tipo de teflon às avessas
+     * iStock
+
+Casagrande
+
+Landim, Zico é para sempre o que você nunca será
+
+   Edi Sousa/Ato Press/Folhapress
+
+Governo remove de canal oficial fala de Lula pedindo voto para Boulos no 1º
+de Maio
+
+     * Nunes diz que vai à Justiça após Lula pedir voto para Boulos
+     * 'Ato foi mal convocado', diz presidente para público pequeno no 1º
+       de Maio
+     * Josias: Estrelado por Lula, ato foi fiasco de público
+     * Sakamoto: Ato de Lula em SP pode ter tido falha estratégica de
+       localização
+     * No Brasil não haverá desoneração para favorecer os mais ricos, diz
+       Lula
+
+América-RN abre placar, mas Bidon empata para Corinthians; veja os gols
+
+   Thilo Schmuelgen/REUTERS
+
+'Grandalhão' inferniza PSG e dá vantagem ao Borussia na semifinal da
+Champions League
+
+UOL ENTREVISTA
+
+   Arquivo Pessoal
+
+Roberto Cabrini revela confissão de Senna que poderia ter evitado morte do
+piloto
+
+     * 'Barra de suspensão não foi o que matou Senna', diz médico que o
+       socorreu
+     * RMP fala sobre 'racha' que Ayrton Senna e Galvão disputaram no
+       México
+     * Quiz: teste o que você sabe sobre Ayrton Senna
+     * 5 recordes de Senna que ainda não foram quebrados
+     * Dez momentos que transformaram o menino Ayrton na lenda Senna
+
+   PagBank o banco completo
+   Canal UOL
+   Seção
+
+Eduardo Tironi: 'No São Paulo, a bruxa já é quase uma funcionária'
+
+     * Pixabay
+
+Por que cachorros grandes não são permitidos na cabine dos aviões?
+
+     *
+
+AO VIVO
+
+Copa do Brasil: ouça América-RN x Corinthians na Rádio Bandeirantes
+     *
+
+AO VIVO
+
+Copa do Brasil: ouça Flamengo x Amazonas na BandNews FM
+
+   (BUTTON) Ver mais
+   Divulgação/Instagram
+
+Madonna faz posts 'puro suco de Brasil' e revela spoiler do show
+
+     * Quem é a 'rainha dos memes' repostada por Madonna?
+     * Cantora pede para aprovar figurino de Anitta
+     * Madonna receberá cachê de R$ 17 mi por show no Rio
+
+Fed mantém juros em 5,5% nos EUA e expressa preocupação com dados de inflação
+
+   Gilson Junio/AGIF
+
+'Santos e Corinthians são uma vergonha', diz presidente de time argentino
+
+   Arquivo pessoal
+
+Pais de Walewska consideram represália tentativa de viúvo de cobrar aluguel
+
+   Baggio Rodrigues/AGIF
+
+Fortaleza não traduz chances em gol e empata com o Vasco na Copa do Brasil
+
+     * Veja todos os resultados da 3ª fase da Copa do Brasil
+
+   Luisa González/Reuters
+
+Presidente da Colômbia anuncia que país vai romper relações diplomáticas com
+Israel
+
+   [uol-prime-white.svg] [uol-prime-subtitle.svg]
+     * Rueda
+     * Tensão no STF
+
+   Caio Loureiro/Divulgação TJ-AL
+
+Globo diz que TJ-AL descumpre lei antes de julgar caso contra TV de Collor
+
+   Reprodução/TV Globo
+
+Ministério Público do RJ denuncia mulher presa por levar parente idoso morto
+a banco
+
+   Getty Images
+
+EUA acusam Rússia de usar armamento químico na Ucrânia
+
+   Divulgação
+
+Adolescente de 14 anos morre após ser picado por cobra venenosa em Santa
+Catarina
+
+PRÊMIO NOSSA
+
+   avatar
+     * Onde tomar uma gelada em São Paulo? Descubra 8 bares craques em
+       cerveja e chope
+     *
+
+   Mega Sena
+
+nº 2719
+
+     * 16
+     * 25
+     * 27
+     * 30
+     * 42
+     * 48
+
+   outras loterias
+   SIGA O UOL
+     *
+     *
+     *
+     *
+
+Ingresso.com
+
+   (BUTTON) Mais filmes
+     * Spy X Family - Código: Branco
+     * Godzilla e Kong: O Novo Império
+     * Ursinho Pooh: Sangue e Mel 2
+     * Ghostbusters: Apocalipse de Gelo
+     * Planeta dos Macacos: O Reinado
+     * Kung Fu Panda 4
+
+     * avatar
+       Guerra Civil
+       Comprar
+     * Divulgação
+       Star Wars: Episódio I - 25 Anos
+       Comprar
+     * Divulgação
+       Rivais
+       Comprar
+
+     * Getty Images
+
+Como é feito exame de corpo de delito em vítimas de agressão?
+     * Wikimedia Commons
+
+A equação mais 'pop' de todas: o que significa o E=mc², de Einstein?
+     *
+
+   Divulgação
+
+Por que facilitar? 5 carros com manutenção complicada que você deve evitar
+
+   Bruno Braz / UOL
+
+Encarada de José Aldo com americano solta faísca antes de UFC Rio: 'Acho
+ótimo'
+
+   Reprodução/YouTube/Brasil Urgente
+
+Polícia investiga se corpo encontrado em matagal é de jovem desaparecida em
+SP
+
+   Reprodução
+
+WhatsApp deixa de funcionar hoje em iPhone 6 e outros 34 modelos; veja lista
+
+   Reprodução
+
+Passageiro e motorista em SC saem de carro em movimento, que despenca; veja
+vídeo
+
+   @rafaagonz no Instagram
+
+Promotoria denuncia mulheres por injúria racial e agressão a casal gay em
+padaria de SP
+
+   Reprodução/Facebook
+
+Quem é a namorada 'anônima' que morou com Senna em Portugal
+
+   Reprodução/Redes Sociais
+
+Enfermeiro é encontrado morto com sinais de violência em apartamento em PE
+
+   Reprodução/YouTube
+
+Pastor evangélico de Goiânia diz em vídeo que crianças abusadas também são
+culpadas
+
+   Divulgação/Agrishow
+
+Agrishow: especialistas dão dicas sobre como comprar equipamentos
+
+   Kena Betancur/AFP
+
+Operação da polícia em Columbia, nos EUA, gerou medo e tensão, diz aluno
+brasileiro
+
+   Getty Images
+
+Imposto de Renda: posso declarar o dízimo que entreguei à igreja?
+
+Colunistas
+
+     * Jorge Moraes/UOL
+
+Perrone
+
+Como era torcer por Senna na Fórmula 1?
+     * ALEJANDRO PAGNI / AFP
+
+Julianne Cerasoli
+
+Hamilton e jovens pilotos brasileiros explicam o que é especial em Senna
+     * Marcelo Camargo/Agência Brasil; Adriano Machado/Reuters; Reprodução
+
+Reinaldo Azevedo
+
+Táticas anti-Lula: polarização, Tarcísio de centro e bolsonarismo moderado
+     * Reprodução/Instagram
+
+Bruno Boghossian
+
+Governador do Rio ergue o pires para disfarçar má gestão crônica
+     * Folha de S.Paulo
+
+Elio Gaspari
+
+Os magistrados exageraram
+     * Vitor Silva / Botafogo
+
+Paula Gama
+
+Por que a volta do seguro obrigatório DPVAT vai pesar no seu bolso
+     * Divulgação
+
+Fábio Zanini
+
+Gestão Nunes vira assistente de acusação em processos contra empresas de
+ônibus e PCC
+     * Marlos Ney Vidal/Autos Segredos
+
+Página Cinco
+
+Dia do Trabalhador: quem paga as contas dos 'grandes homens'?
+     * Sony
+
+Sadovski
+
+'Garfield - Fora de Casa' é bom retorno do gato mais famoso da cultura pop
+     * Vitor Silva / Botafogo
+
+Ross Douthat
+
+Caminho para guerra civil nos EUA precisaria de mais que Biden vs. Trump 2.0
+     * Eduardo Knapp/Folhapress
+
+Juca Kfouri
+
+O que Mônica Bergamo não contou sobre a melhor entrevista de Ayrton Senna
+     * Folha de S.Paulo
+
+Charles M. Blow
+
+Kamala encontrou seu ritmo como vice de Biden ao focar tema do aborto
+     * Reprodução
+
+Josias de Souza
+
+Lula chega ao 1º de Maio como protótipo de teflon às avessas
+     * Wikimedia Commons
+
+Rodrigo Mattos
+
+O que se sabe sobre a revenda do Cruzeiro por Ronaldo a bilionário
+     * Folha de S.Paulo
+
+Robson Jesus
+
+Meu Ano Novo nos Andes
+     * GettyImages/ Divulgação
+
+Paulo Vieira
+
+Reality show nas alturas
+     * Folha de S.Paulo
+
+Música em Letras
+
+Sons de S.Paulo: o som do Dia do Trabalhador
+     * Folha de S.Paulo
+
+Ruy Castro
+
+Caminho da roça
+     * JHONY INACIO/ENQUADRAR/ESTADÃO CONTEÚDO
+
+Bruno Gualano
+
+O que quer a hormonologia?
+     * Folha de S.Paulo
+
+Tom Farias
+
+João Cândido é a face de heroísmo do povo negro
+     * Luiz Roberto/Secom/TSE
+
+PVC
+
+O sonho do Borussia Dortmund contra Mbappé. Ou seria Dembele
+     * Folha de S.Paulo
+
+Mirian Goldenberg
+
+A cultura do ódio está na moda
+     * Netflix
+
+Carlos Madeiro
+
+Falsa médica em Maceió cobrava R$ 450 e se dizia especialista em câncer
+     * Leonardo Moreira / Fortaleza EC
+
+Marcelo Hazan
+
+Por que Fortaleza entrou em plataforma digital global de transferências
+
+   (BUTTON) Mais colunistas
+
+Mais lidas
+
+    1.
+
+'Santos e Corinthians são uma vergonha', diz presidente de time argentino
+    2.
+
+Adolescente de 14 anos morre após ser picado por cobra venenosa em Santa
+Catarina
+    3.
+
+Cabrini revela confissão de Senna que poderia ter evitado morte do piloto
+    4.
+
+E se Senna não tivesse morrido? Mostramos cenários que mudariam a história da
+F1
+    5.
+
+'Barra de suspensão não foi o que matou Senna', afirma médico que o socorreu
+
+   Reprodução/Instagram
+   Quem é Bárbara Contreras, vista com Davi, do BBB 24
+   Reprodução/Instagram
+   Jojo Todynho curte praia em feriado com sol no Rio de Janeiro
+   Reprodução/Instagram
+   Filha de Simony perde mais de 35 kg após reeducação alimentar
+   Reprodução/Instagram
+   Look de Sabrina causa estranhamento em fãs: 'Fralda jeans?'
+   Divulgação
+   Onde estão cinco galãs de 'Malhação' que desapareceram da TV
+   Reprodução/X
+   Pagodinho encontra Temer: 'Te conheço de algum lugar'
+
+Escolha seu time
+
+Esporte
+
+   Stuart MacFarlane/Arsenal FC via Getty Images
+
+Arsenal considera Gabriel Jesus 'dispensável' e cogita propostas, diz site
+
+   Marcelo Cortes/CRF
+
+Zico posta indireta a presidente do Flamengo após declaração polêmica
+
+   Getty Images
+
+Após fiasco na Champions, Arábia promete gastar outra fortuna em reforços
+
+   Fabio Menotti/Palmeiras/by Canon
+
+Mãe de Endrick agradece Palmeiras e se emociona: 'Saudades ficarão para
+sempre'
+
+   Luiz Vieira/Instagram/Atlético-GO
+
+Atlético-GO bate Brusque fora de casa e sai na frente por vaga na Copa do
+Brasil
+
+     * Jorge Rodrigues/AGIF
+
+Diniz desconversa sobre nova indisciplina e afastamento de John Kennedy no
+Flu
+
+     * Gaspar Nóbrega/COB
+
+Vôlei de Praia: André e George garantem vaga nos Jogos Olímpicos de Paris
+     * Murilo Matheus
+
+Algoz do Corinthians no salão ganha chance para jogar no campo do Palmeiras
+     * Raul Baretta/ Santos FC
+
+Joia da base supera série de lesões e busca redenção no Santos de Carille
+
+   (BUTTON) Ver mais
+   Logo UOL Splash, começo da seção
+   Seção splash
+   (BUTTON) esconder bloco
+   Reprodução/Instagram
+
+Wagner Moura vai estrelar 'O Agente Secreto', novo filme de Kleber Mendonça
+Fº
+
+   avatar
+
+Análise: 'Meninas Malvadas' criou geração de patricinhas ácidas e excluídos
+'cool'
+
+   Reprodução / Folhapress
+
+Bruno Mars volta ao Brasil este ano para show no Morumbis; datas serão
+anunciadas
+
+   Tony Ramos como Antenor em Paraíso Tropical
+
+No final de 'Paraíso Tropical', Antenor revela segredo: 'Não mata meu filho'
+
+Nova 'Chaves'? Comédia sobre hotel em Acapulco exporta cultura latina e
+emociona
+
+Clube UOL: Assinante UOL, renove sua casa com cupom de até 25% OFF na Casas
+Bahia
+
+     * Reprodução
+
+'Uso minha sexualidade como uma mensagem de liberdade', diz Anitta
+
+     * Isabelle Drummond como Cida em Cheias de Charme
+
+Em 'Cheias de Charme', Cida é pega em situação comprometedora por Conrado
+     * Reprodução/Instagram
+
+Afastado da TV, Manoel Carlos deixa missão para a filha após diagnóstico de
+doença
+     * Globo/Léo Rosario
+
+'Renascer': Pai do filho de Teca volta e ameaça sonho de José Inocêncio
+
+   (BUTTON) Ver mais
+
+Notícias
+
+   (BUTTON) esconder bloco
+   avatar
+
+Vacinação da gripe é ampliada para todos com mais de seis meses de idade
+
+   avatar
+
+21 estados e DF registram queda ou estabilidade na incidência de dengue
+
+   AFP
+
+Múmias 'espontâneas' intrigam cidade colombiana de San Bernardo
+
+   Divulgação/Bom Jesus Leilões
+
+Cabo de alta tensão cai em curral e mata 80 bois em Tocantins; prejuízo chega
+a R$ 200 mil
+
+   Divulgação
+
+Socialite do Chopin tem mansão de R$ 15 milhões; família relata 'invasão'
+
+     * Getty Images
+
+Justiça decide que praça cercada por ex-juiz é da Prefeitura de São Paulo
+
+     * Reprodução/José Luis Tan Estrada no Facebook
+
+Organizações protestam contra prisão de jornalista em Cuba por críticas ao
+regime
+     * Caio Guatelli
+
+Sanders diz que Brasil e Estados Unidos devem se unir por defesa da
+democracia
+     * 29.abr.2024-Chris J. Ratcliffe/Reuters
+
+Reino Unido começa a deter requerentes de refúgio que serão deportados para
+Ruanda
+
+   (BUTTON) Ver mais
+   Logo Guia de Compras, começo da seção
+   Seção guia-de-compras
+   (BUTTON) esconder bloco
+   Prostock-Studio/ iStock
+   Virgem é crítico, Aquário frio: como cada signo age quando quer
+   terminar
+   Arte UOL
+   Por R$ 40, marmita com divisórias faz sucesso ao deixar alimentos
+   separados
+   Getty Images
+   Adeus, sujeira: 9 produtos de limpeza para deixar sua cozinha brilhando
+   Reprodução/Amazon
+   Viral no Tiktok, projetor de astronauta cria galáxia no quarto por R$
+   51
+   Logo UOL Vivabem, começo da seção
+   Seção viva-bem
+   iStock
+   Hipertensão é doença silenciosa; veja novas diretrizes para seu
+   diagnóstico
+   Getty Images
+   Como é feito exame de corpo de delito em vítimas de agressão?
+   iStock
+   Se esqueço muito as coisas, devo recorrer à vitamina B-12? Entenda
+   iStock
+   O que é preciso para melhorar o tratamento do câncer de próstata no
+   SUS?
+   Logo UOL Universa, começo da seção
+   Seção universa
+   Prostock-Studio/ iStock
+   Virgem é crítico, Aquário frio: como cada signo age quando quer
+   terminar
+   Pexels/Rogério Souza
+   Relações atravessam fase de sensibilidade em maio; a previsão do seu
+   signo
+   Agência Brasil / Rogério Sottili
+   Gravidez: ter filhos com intervalo muito curto traz risco à saúde?
+   Anna Shvets/Pexels
+   Contrai e relaxa: os exercícios milenares que aumentam o prazer
+   feminino
+   HORÓSCOPO
+     * áries
+     * touro
+     * gêmeos
+     * câncer
+     * leão
+     * virgem
+     * libra
+     * escorpião
+     * sagitário
+     * capricórnio
+     * aquário
+     * peixes
+
+Carros
+
+   Reprodução
+
+Nova marca chinesa deve ocupar fábrica da Caoa Chery parada há 2 anos em SP
+
+   Divulgação
+
+Como funciona e para que serve o 'dedo de mentira' criado pela Toyota
+
+   Reprodução
+
+Nova placa Mercosul? como ela já foi 'depenada' e isso incentiva clonagens
+
+   Logo UOL Tilt, começo da seção
+   Seção tilt
+   jacoblund/Getty Images/iStockphoto
+
+Amores digitais: como identificar que vocês estão vivendo uma relação hoje?
+
+   iStock
+
+WhatsApp lança recurso para eventos e respostas em tópicos nos grupos
+
+   arquivo pessoal
+
+Como funciona o sugador de clitóris? Tecnologia do 'melhor amigo' é curiosa
+
+   Logo UOL Nossa, começo da seção
+   Seção nossa
+   Visit Florida
+
+Soldados na praia e 'tudo mato': o passado pouco conhecido de Miami Beach
+
+   Nico Diaz Tillard
+
+Wagyu fake e 'peixe Angus': como evitar cair em armadilhas ao comprar carne
+
+   Bruce Yuanyue Bi/Getty Images
+
+Cabana misteriosa: o que sabemos sobre casa mais solitária do mundo
+
+   Logo UOL TAB, começo da seção
+   Seção tab
+   Bruna Bento/UOL
+
+'Tenho vergonha do meu corpo', diz ex-paciente de cirurgião dos famosos
+
+   Gabriela Biló/Folhapress
+
+STF tem volta da tensão após consenso em torno de Alexandre de Moraes
+
+   Logo UOL Ecoa, começo da seção
+   Seção ecoa
+   Nick Gammon / AFP
+
+Mudança climática e Brexit ameaçam tulipas holandesas
+
+   Joel Saget/AFP
+
+E o Tietê? Como rio Sena vem sendo despoluído para Olimpíadas por R$ 37 bi
+
+   Logo Canal UOL, começo da seção
+   Seção channel
+   Mariana Pekin/UOL
+
+DESCULPA ALGUMA COISA
+
+Cleo diz que já levou fora por falar abertamente sobre sexo
+
+   iStock
+
+SEM FRESCURA
+
+PEP e Prep: saiba o que são, como funcionam e quem deve tomar
+
+   (BUTTON) COMUNICAR ERROERRATAS
+   Sobre o UOL
+     * Conheça nossa história
+     * Denuncie
+     * Fale conosco
+     * Imprensa
+     * SAC
+     * Segurança e privacidade
+       Comunique erro de segurança
+     * Termos de Uso
+     * Aviso de Direitos autorais
+     * Carreiras
+     *
+     *
+     *
+
+   Para Você
+     * PagBank
+     * Assine UOL
+     * Tenha um email @uol
+     * Bate-Papo UOL
+     * Segurança Digital
+     * Família Protegida
+     * UOL Play
+     * UOL Leia+
+     * UOL Esporte Clube
+
+     * Clube UOL
+     * UOL Resolve
+     * UOL Sexo
+     * UOL Wi-Fi
+     * Assistência técnica
+     * Curso de inglês
+     * Cursos online
+     * UOL Afiliados
+
+   Para seu negócio
+     * Anuncie no UOL
+     * Cloud Computing
+     * Conecte
+     * Crie seu blog
+     * Crie seu site
+     * Crie sua loja virtual
+     * Dicas para o seu negócio
+
+     * Email marketing
+     * Email profissional
+     * Hospedagem
+     * Moderninha
+     * PagBank
+     * Registre um domínio
+     * Vende Fácil
+
+   Aplicativos
+     * UOL Notícias
+     * Placar UOL
+     * VivaBem
+     * Splash
+     * Universa
+     * Nossa
+     * UOL Cotações
+     * Bate-Papo UOL
+     * UOL Mail
+     * Meu UOL
+
+   Logo UOL
+   1996-2024 UOL - Universo Online. Todos os direitos reservados.
+   Segurança e privacidade
+   (BUTTON) navegar pra cima

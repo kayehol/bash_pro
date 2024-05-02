@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lobsters</title>
+    <description></description>
+    <link>https://lobste.rs/</link>
+    <atom:link href="https://lobste.rs/rss" rel="self" type="application/rss+xml" />
+
+      <item>
+        <title>Thoughts on Zig</title>
+        <link>https://arne.me/blog/thoughts-on-zig</link>
+        <guid isPermaLink="false">https://lobste.rs/s/fy551x</guid>
+        <author>arne.me by bahlo</author>
+        <pubDate>Wed, 01 May 2024 11:45:57 -0500</pubDate>
+        <comments>https://lobste.rs/s/fy551x/thoughts_on_zig</comments>
+        <description>
+          &#60;p&#62;After three nights of using it.&#60;/p&#62;&#10;
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/fy551x/thoughts_on_zig&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>zig</category>
+      </item>
+      <item>
+        <title>Please Don&#8217;t Share Our Links on Mastodon</title>
+        <link>https://news.itsfoss.com/mastodon-link-problem/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/sgarpt</guid>
+        <author>news.itsfoss.com via edwardloveall</author>
+        <pubDate>Wed, 01 May 2024 07:01:39 -0500</pubDate>
+        <comments>https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>distributed</category>
+      </item>
+      <item>
+        <title>Software Friction</title>
+        <link>https://www.hillelwayne.com/post/software-friction/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/etg8st</guid>
+        <author>hillelwayne.com by hwayne</author>
+        <pubDate>Wed, 01 May 2024 10:03:33 -0500</pubDate>
+        <comments>https://lobste.rs/s/etg8st/software_friction</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/etg8st/software_friction&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>practices</category>
+      </item>
+      <item>
+        <title>Mojo Lang - Tomorrow&#39;s High Performance Python? (with Chris Lattner)</title>
+        <link>https://youtu.be/JRcXUuQYR90</link>
+        <guid isPermaLink="false">https://lobste.rs/s/zlcfpy</guid>
+        <author>youtu.be by krisajenkins</author>
+        <pubDate>Wed, 01 May 2024 11:31:53 -0500</pubDate>
+        <comments>https://lobste.rs/s/zlcfpy/mojo_lang_tomorrow_s_high_performance</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/zlcfpy/mojo_lang_tomorrow_s_high_performance&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>video</category>
+          <category>plt</category>
+      </item>
+      <item>
+        <title>Evolving the Go Standard Library with math/rand/v2</title>
+        <link>https://go.dev/blog/randv2</link>
+        <guid isPermaLink="false">https://lobste.rs/s/hoy4cg</guid>
+        <author>go.dev via antonz</author>
+        <pubDate>Wed, 01 May 2024 11:28:03 -0500</pubDate>
+        <comments>https://lobste.rs/s/hoy4cg/evolving_go_standard_library_with_math</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/hoy4cg/evolving_go_standard_library_with_math&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>go</category>
+      </item>
+      <item>
+        <title>Stealing your Telegram account in 10 seconds flat</title>
+        <link>https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/72sp5w</guid>
+        <author>lyra.horse via videah</author>
+        <pubDate>Wed, 01 May 2024 17:09:45 -0500</pubDate>
+        <comments>https://lobste.rs/s/72sp5w/stealing_your_telegram_account_10</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/72sp5w/stealing_your_telegram_account_10&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>security</category>
+          <category>reversing</category>
+      </item>
+      <item>
+        <title>run0</title>
+        <link>https://www.freedesktop.org/software/systemd/man/devel/run0.html</link>
+        <guid isPermaLink="false">https://lobste.rs/s/umijeb</guid>
+        <author>freedesktop.org via mms</author>
+        <pubDate>Tue, 30 Apr 2024 14:05:39 -0500</pubDate>
+        <comments>https://lobste.rs/s/umijeb/run0</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/umijeb/run0&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>linux</category>
+          <category>systemd</category>
+      </item>
+      <item>
+        <title>Borgo is a new programming language that compiles to Go</title>
+        <link>https://borgo-lang.github.io/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/3fk0hl</guid>
+        <author>borgo-lang.github.io via osener</author>
+        <pubDate>Tue, 30 Apr 2024 11:24:59 -0500</pubDate>
+        <comments>https://lobste.rs/s/3fk0hl/borgo_is_new_programming_language</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/3fk0hl/borgo_is_new_programming_language&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>go</category>
+          <category>plt</category>
+      </item>
+      <item>
+        <title>Ansible is a Lisp</title>
+        <link>https://astrid.tech/2024/05/01/0/ansible-is-a-lisp</link>
+        <guid isPermaLink="false">https://lobste.rs/s/qspf5m</guid>
+        <author>astrid.tech via eBPF</author>
+        <pubDate>Wed, 01 May 2024 16:38:01 -0500</pubDate>
+        <comments>https://lobste.rs/s/qspf5m/ansible_is_lisp</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/qspf5m/ansible_is_lisp&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>plt</category>
+      </item>
+      <item>
+        <title>go: The Microsoft build of the Go toolset</title>
+        <link>https://github.com/microsoft/go</link>
+        <guid isPermaLink="false">https://lobste.rs/s/d2vpok</guid>
+        <author>github.com via fs111</author>
+        <pubDate>Wed, 01 May 2024 11:31:39 -0500</pubDate>
+        <comments>https://lobste.rs/s/d2vpok/go_microsoft_build_go_toolset</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/d2vpok/go_microsoft_build_go_toolset&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>security</category>
+          <category>go</category>
+      </item>
+      <item>
+        <title>Docker without Dockerfile: Build a Ruby on Rails application image in 5 minutes with Cloud Native Buildpacks (CNB)</title>
+        <link>https://www.schneems.com/2024/05/01/build-a-ruby-on-rails-application-image-in-5-minutes-no-dockerfile-required/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/fgrffn</guid>
+        <author>schneems.com by schneems</author>
+        <pubDate>Wed, 01 May 2024 14:13:55 -0500</pubDate>
+        <comments>https://lobste.rs/s/fgrffn/docker_without_dockerfile_build_ruby_on</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/fgrffn/docker_without_dockerfile_build_ruby_on&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>ruby</category>
+      </item>
+      <item>
+        <title>tootik: A federated nanoblogging service with a Gemini frontend</title>
+        <link>https://github.com/dimkr/tootik</link>
+        <guid isPermaLink="false">https://lobste.rs/s/48dgoo</guid>
+        <author>github.com via doriancodes</author>
+        <pubDate>Wed, 01 May 2024 12:11:55 -0500</pubDate>
+        <comments>https://lobste.rs/s/48dgoo/tootik_federated_nanoblogging_service</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/48dgoo/tootik_federated_nanoblogging_service&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>privacy</category>
+          <category>web</category>
+      </item>
+      <item>
+        <title>A brief history of web development. And why your framework doesn&#39;t matter</title>
+        <link>https://gebna.gg/blog/brief-history-of-web-development</link>
+        <guid isPermaLink="false">https://lobste.rs/s/bq044j</guid>
+        <author>gebna.gg via lproven</author>
+        <pubDate>Wed, 01 May 2024 05:41:05 -0500</pubDate>
+        <comments>https://lobste.rs/s/bq044j/brief_history_web_development_why_your</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/bq044j/brief_history_web_development_why_your&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>javascript</category>
+          <category>web</category>
+      </item>
+      <item>
+        <title>Tropical.rb 2024 - Talks</title>
+        <link>https://www.youtube.com/playlist?list=PLvOWTr3oa1dVFAtodH31zjwdue2QH7wdd</link>
+        <guid isPermaLink="false">https://lobste.rs/s/rbvpeg</guid>
+        <author>youtube.com via MatheusRich</author>
+        <pubDate>Wed, 01 May 2024 14:50:44 -0500</pubDate>
+        <comments>https://lobste.rs/s/rbvpeg/tropical_rb_2024_talks</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/rbvpeg/tropical_rb_2024_talks&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>ruby</category>
+          <category>video</category>
+      </item>
+      <item>
+        <title>7.css: A design system for building faithful recreations of old UIs</title>
+        <link>https://khang-nd.github.io/7.css/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/5vlmvc</guid>
+        <author>khang-nd.github.io via bienjensu</author>
+        <pubDate>Tue, 30 Apr 2024 19:46:24 -0500</pubDate>
+        <comments>https://lobste.rs/s/5vlmvc/7_css_design_system_for_building_faithful</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/5vlmvc/7_css_design_system_for_building_faithful&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>css</category>
+      </item>
+      <item>
+        <title>How could Windows settings affect Linux network interfaces?</title>
+        <link>https://askubuntu.com/a/1470080/728673</link>
+        <guid isPermaLink="false">https://lobste.rs/s/sybjni</guid>
+        <author>askubuntu.com via mw</author>
+        <pubDate>Wed, 01 May 2024 10:39:58 -0500</pubDate>
+        <comments>https://lobste.rs/s/sybjni/how_could_windows_settings_affect_linux</comments>
+        <description>
+          &#60;p&#62;Look at the last answer in the AskUbuntu post. I was having the same &#60;code&#62; *-network UNCLAIMED&#60;/code&#62; issue as the author, and disabling &#8220;fast startup&#8221; on Windows resolved it. It links to two separate sites documenting this problem (arch linux, and linux kernel wikis) but neither providing an explanation. So my question is, how can this possibly happen? Each operating system is on a different partition of the same drive. What could one OS to do it&#8217;s drive that would affect the other&#8217;s network interfaces or drivers?&#60;/p&#62;&#10;&#60;p&#62;(If this isn&#8217;t the place to ask this kind of question, please interpret this post as &#8220;where should I even begin to ask such a question?&#8221; It is more open ended than stack overflow&#8217;s guidelines dictate, but more niche and narrow than any other community I am aware of.)&#60;/p&#62;&#10;
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/sybjni/how_could_windows_settings_affect_linux&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>linux</category>
+          <category>windows</category>
+          <category>ask</category>
+      </item>
+      <item>
+        <title>Save the Web by Being Nice</title>
+        <link>https://sheep.horse/2024/4/save_the_web_by_being_nice.html</link>
+        <guid isPermaLink="false">https://lobste.rs/s/nkkahc</guid>
+        <author>sheep.horse by AndrewStephens</author>
+        <pubDate>Mon, 29 Apr 2024 21:50:09 -0500</pubDate>
+        <comments>https://lobste.rs/s/nkkahc/save_web_by_being_nice</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/nkkahc/save_web_by_being_nice&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>web</category>
+      </item>
+      <item>
+        <title>How to install Linux from a Windows installer</title>
+        <link>https://prose.nsood.in/linux-from-windows-installer</link>
+        <guid isPermaLink="false">https://lobste.rs/s/ndumlb</guid>
+        <author>prose.nsood.in via calvin</author>
+        <pubDate>Tue, 30 Apr 2024 22:15:55 -0500</pubDate>
+        <comments>https://lobste.rs/s/ndumlb/how_install_linux_from_windows_installer</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/ndumlb/how_install_linux_from_windows_installer&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>linux</category>
+          <category>windows</category>
+      </item>
+      <item>
+        <title>Co-dfns: High-performance, Reliable, and Parallel APL</title>
+        <link>https://github.com/Co-dfns/Co-dfns</link>
+        <guid isPermaLink="false">https://lobste.rs/s/nzuz0b</guid>
+        <author>github.com via bienjensu</author>
+        <pubDate>Tue, 30 Apr 2024 19:54:08 -0500</pubDate>
+        <comments>https://lobste.rs/s/nzuz0b/co_dfns_high_performance_reliable</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/nzuz0b/co_dfns_high_performance_reliable&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>apl</category>
+      </item>
+      <item>
+        <title>Box Is a Unique Type</title>
+        <link>https://blog.nilstrieb.dev/posts/box-is-a-unique-type/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/vvutb8</guid>
+        <author>blog.nilstrieb.dev via veera</author>
+        <pubDate>Wed, 01 May 2024 14:02:40 -0500</pubDate>
+        <comments>https://lobste.rs/s/vvutb8/box_is_unique_type</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/vvutb8/box_is_unique_type&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>rust</category>
+          <category>compilers</category>
+      </item>
+      <item>
+        <title>dream-html - render HTML, SVG, MathML, htmx markup from OCaml</title>
+        <link>https://github.com/yawaramin/dream-html</link>
+        <guid isPermaLink="false">https://lobste.rs/s/dr6unc</guid>
+        <author>github.com by yawaramin</author>
+        <pubDate>Tue, 30 Apr 2024 17:41:04 -0500</pubDate>
+        <comments>https://lobste.rs/s/dr6unc/dream_html_render_html_svg_mathml_htmx</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/dr6unc/dream_html_render_html_svg_mathml_htmx&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>web</category>
+          <category>ml</category>
+      </item>
+      <item>
+        <title>Go Generics: Use Structs for Generic Arguments Lists</title>
+        <link>https://www.emoses.org/posts/reusable-patterns-in-go/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/tuan7i</guid>
+        <author>emoses.org by emoses</author>
+        <pubDate>Tue, 30 Apr 2024 16:40:54 -0500</pubDate>
+        <comments>https://lobste.rs/s/tuan7i/go_generics_use_structs_for_generic</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/tuan7i/go_generics_use_structs_for_generic&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>go</category>
+      </item>
+      <item>
+        <title>go module bloat</title>
+        <link>https://flak.tedunangst.com/post/go-module-bloat</link>
+        <guid isPermaLink="false">https://lobste.rs/s/fkcjmw</guid>
+        <author>flak.tedunangst.com via eBPF</author>
+        <pubDate>Wed, 01 May 2024 16:39:30 -0500</pubDate>
+        <comments>https://lobste.rs/s/fkcjmw/go_module_bloat</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/fkcjmw/go_module_bloat&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>go</category>
+      </item>
+      <item>
+        <title>Bytecode VMs in surprising places</title>
+        <link>https://dubroy.com/blog/bytecode-vms-in-surprising-places/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/wy4jd4</guid>
+        <author>dubroy.com via jado</author>
+        <pubDate>Tue, 30 Apr 2024 09:18:47 -0500</pubDate>
+        <comments>https://lobste.rs/s/wy4jd4/bytecode_vms_surprising_places</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/wy4jd4/bytecode_vms_surprising_places&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>compilers</category>
+      </item>
+      <item>
+        <title>How an empty S3 bucket can make your AWS bill explode</title>
+        <link>https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1</link>
+        <guid isPermaLink="false">https://lobste.rs/s/cy9i87</guid>
+        <author>medium.com via sknebel</author>
+        <pubDate>Mon, 29 Apr 2024 17:57:09 -0500</pubDate>
+        <comments>https://lobste.rs/s/cy9i87/how_empty_s3_bucket_can_make_your_aws_bill</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/cy9i87/how_empty_s3_bucket_can_make_your_aws_bill&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>security</category>
+      </item>
+  </channel>
+</rss>
