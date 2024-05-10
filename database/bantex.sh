@@ -8,6 +8,14 @@ TEMP=temp.$$
 	return 1
 }
 
+has_key() {
+	grep -i -q "^$1$SEP" "$DB_TXT"
+}
+
+fields() {
+	head -n 1 "$DB_TXT" | tr $SEP \\n
+}
+
 delete_row() {
 	has_key "$1" || return
 	grep -i -v "^$1$SEP" "$DB_TXT" >"$TEMP"
@@ -28,6 +36,15 @@ insert_row() {
 	return 0
 }
 
-has_key() {
-	grep -i -q "^$1$SEP" "$DB_TXT"
+show_row() {
+	local data=$(grep -i "^$1$SEP" "$DB_TXT")
+	local i=0
+
+	[ "$data" ] || return
+
+	fields | while read field; do
+		i=$((i + 1))
+		echo -n "$field: "
+		echo "$data" | cut -d $SEP -f $i
+	done
 }
