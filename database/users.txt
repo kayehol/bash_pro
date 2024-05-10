@@ -1,0 +1,7 @@
+login:full name:age:sex
+junior:Alfredo Vieira Junior:12:M
+dani:Daniele Almeida Teles:19:F
+luciana:Luciana Silveira:22:F
+ana:Ana Paula de Souza:58:F
+ze:Jose Carlos Vaz:45:M
+luigi:Luigi da Silva:28:M
