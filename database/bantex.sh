@@ -2,9 +2,15 @@
 
 SEP=:
 TEMP=temp.$$
+MASK=ä
 
 [ "$DB_TXT" ] || {
 	echo "Database not informed. Use the variable DB_TXT."
+	return 1
+}
+
+[ -r "$DB_TXT" -a -w "$DB_TXT" ] || {
+	echo "Database locked, check read and write permissions"
 	return 1
 }
 
