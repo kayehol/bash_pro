@@ -5,3 +5,4 @@ luciana:Luciana Silveira:22:F
 ana:Ana Paula de Souza:58:F
 ze:Jose Carlos Vaz:45:M
 luigi:Luigi da Silva:28:M
+weird:OneäTwoäThree:77:F
